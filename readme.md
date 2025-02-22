@@ -17,7 +17,6 @@ I'm a passionate aspiring **ethical hacker and cybersecurity enthusiast** with a
 I am continuously expanding my knowledge in **ethical hacking**, **penetration testing**, and **network security** to develop advanced security solutions. My passion lies in identifying and mitigating vulnerabilities while ensuring digital safety.
 
 ## 📩 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/premshah1111)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/premkrsah1111)
 
 💡 *Let's secure the digital world together!* 🚀
