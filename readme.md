@@ -12,11 +12,13 @@ I'm a passionate aspiring **ethical hacker and cybersecurity enthusiast** with a
 - 🔹 ESP8266 & Arduino Projects ⚡
 
 
-
 ## 🌱 Learning Journey
 I am continuously expanding my knowledge in **ethical hacking**, **penetration testing**, and **network security** to develop advanced security solutions. My passion lies in identifying and mitigating vulnerabilities while ensuring digital safety.
 
 ## 📩 Connect with Me
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@TheBinaryGhost)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/premkrsah1111)
+
 
 💡 *Let's secure the digital world together!* 🚀
