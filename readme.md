@@ -17,7 +17,6 @@ I am continuously expanding my knowledge in **ethical hacking**, **penetration t
 
 ## 📩 Connect with Me
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@TheBinaryGhost)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/premkrsah1111)
 
 
