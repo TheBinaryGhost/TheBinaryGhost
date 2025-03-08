@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **ethical hacking, python, kotlin, java, c++ and linux distributions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheBinaryGhost](https://github.com/TheBinaryGhost)
+- 👨‍💻 All of my projects are available at [https://github.com/TheBinaryGhost?tab=repositories](https://github.com/TheBinaryGhost?tab=repositories)
 
 - 📝 I regularly write articles on [https://hashnode.com/@TheBinaryGhost](https://hashnode.com/@TheBinaryGhost)
 
 - 💬 Ask me about **ethical hacking, python, kotlin,java, c++ linux, and other related queries about programming and ethical hacking.**
 
-- 📫 How to reach me **premshah2846@gmail.com**
-
-- ⚡ Fun fact **I think i am ghost.**
+- 📫 To reach me **premshah2846@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
