@@ -7,11 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am an aspiring cybersecurity professional. My primary focus is on ethical hacking, network security, penetration testing, and Python-based security tool development. I have hands-on experience in Wi-Fi security, network traffic monitoring, and configuring secure network environments.
-
-In addition to cybersecurity, I have a basic understanding of programming languages like Python, Java, and Kotlin, which helps me in developing security tools and automating tasks.
-
-I am passionate about learning and growing in the field of cybersecurity and look forward to collaborating with professionals, researchers, and learners who share similar interests.
+I am an aspiring cybersecurity professional. My primary focus is on ethical hacking, network security, penetration testing, and Programming for tools development. I have hands-on experience in Wi-Fi security, network traffic monitoring, and configuring secure network environments. In addition to cybersecurity, I have a basic understanding of programming languages like Python, Java, and Kotlin, which helps me in developing security tools and automating tasks.
 
 #### Areas of Interest:
 🔹 Ethical Hacking & Cybersecurity  
@@ -20,14 +16,13 @@ I am passionate about learning and growing in the field of cybersecurity and loo
 🔹 Programming in Python, Java, and Kotlin  
 🔹 Digital Forensics & Wi-Fi Security  
 
-I am always open to new opportunities, collaborations, and research in cybersecurity and programming. Let’s connect and work towards securing the digital world!
-
 - 🌱 Currently learning **Ethical Hacking, Python, Kotlin, Java, C++, and Linux.**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/TheBinaryGhost?tab=repositories)
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@TheBinaryGhost)
 - 💬 Ask me about **Ethical Hacking, Python, Kotlin, Java, C++, Linux, and Security Automation.**
 - 📧 Reach me at **premshah2846@gmail.com**
 
+I am passionate about learning and growing in the field of cybersecurity and look forward to collaborating with professionals, researchers, and learners who share similar interests and always open to new opportunities, collaborations, and research in cybersecurity and programming. Let’s connect and work towards securing the digital world!
 ---
 
 ### 🌐 Connect with Me:
