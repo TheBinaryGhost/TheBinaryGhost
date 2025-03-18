@@ -16,7 +16,7 @@ I am an aspiring cybersecurity professional. My primary focus is on ethical hack
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/TheBinaryGhost?tab=repositories)
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@TheBinaryGhost)
 - 💬 Ask me about **Ethical Hacking, Python, Kotlin, Java, C++, Linux, and Security Automation.**
-- 📧 Reach me at **premshah2846@gmail.com**
+- 📧 Reach me at **thebinaryghost1111@gmail.com** or you can connect with me on linkedin and instagram.
 
 I am passionate about learning and growing in the field of cybersecurity and look forward to collaborating with professionals, researchers, and learners who share similar interests and always open to new opportunities, collaborations, and research in cybersecurity and programming. Let’s connect and work towards securing the digital world!
 ---
