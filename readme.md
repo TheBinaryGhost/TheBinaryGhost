@@ -16,6 +16,7 @@ I’m an aspiring cybersecurity professional who is just starting out and learni
 
 🔹 Wireless Security
 
+### What I Do
 - 🌱 Currently learning **Ethical Hacking, Python and Linux.**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/TheBinaryGhost?tab=repositories)
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@TheBinaryGhost)
