@@ -7,10 +7,14 @@ I’m an aspiring cybersecurity professional who is just starting out and learni
 
 #### Areas of Interest:
 🔹 Ethical Hacking
-🔹 Penetration Testing & Network Security  
-🔹 Security Tool Development (Python)  
-🔹 Programming in Python 
-🔹 Wireless Security  
+
+🔹 Penetration Testing & Network Security
+
+🔹 Security Tool Development (Python)
+
+🔹 Programming in Python
+
+🔹 Wireless Security
 
 - 🌱 Currently learning **Ethical Hacking, Python and Linux.**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/TheBinaryGhost?tab=repositories)
