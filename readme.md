@@ -3,18 +3,19 @@
 ---
 
 ### 🚀 About Me
-I’m an aspiring cybersecurity professional who is just starting out and learning step by step. My main interests are ethical hacking, network security, and penetration testing. I’m also learning how to build simple tools with programming. So far, I have practiced some basics of Wi-Fi security, network traffic monitoring, and setting up secure networks. Along with this, I am learning Python programming language which I use to create small security tools and automate tasks.
+I’m an aspiring cybersecurity enthusiast with a strong interest in ethical hacking, network security, penetration testing, and Python-based security tool development.
+I’m passionate about continuous learning and look forward to connecting with like-minded professionals and contributing to a safer digital world.
 
 #### Areas of Interest:
 🔹 Ethical Hacking
 
-🔹 Penetration Testing & Network Security
+🔹 Penetration Testing
 
-🔹 Security Tool Development (Python)
+🔹 Security Research
 
-🔹 Programming in Python
+🔹 Network Security 
 
-🔹 Wireless Security
+🔹 Programming
 
 ### What I Do
 - 🌱 Currently learning **Ethical Hacking, Python and Linux.**
