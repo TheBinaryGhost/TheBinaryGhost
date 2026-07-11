@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%3E+Accessing+The+Binary+Ghost;Cyber+Security+%7C+Programming+%7C+AI%2FML;_%7C+%3E+root%40ghost%3A~%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%3E+Accessing+The+Binary+Ghost;Cyber+Security+%7C+Programming+%7C+AI%2FML;_%7C+%3E+root%40ghost%3A~%23" alt="Typing SVG" />
 </a>
 
 <!-- Shield Badges -->
@@ -41,7 +41,7 @@ class TheBinaryGhost:
 ```
 
 - 🔍 **Cyber Security** — Penetration Testing, Ethical Hacking, CTFs, Security Research.
-- 💻 **Programming** — Python, C++, JavaScript, Kotlin, Java, Bash — building tools that hack and protect.
+- 💻 **Programming** — Python, JavaScript, Bash — building tools that hack and protect.
 - 🤖 **AI/ML** — TensorFlow, PyTorch, Scikit-learn — making machines smart enough to defend themselves.
 - 🐧 **Linux Tinkerer** — If it runs Linux, I've probably rice'd it.
 - 📝 **Tech Writer** — Sharing what I learn on [Hashnode](https://hashnode.com/@TheBinaryGhost).
