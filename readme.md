@@ -8,8 +8,8 @@
 <!-- Shield Badges -->
 <a href="https://linkedin.com/in/premkrsah1111"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://hashnode.com/@TheBinaryGhost"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
-<a href="https://www.instagram.com/sudo.premmm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:thebinaryghost1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/themr.shah_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:themr.shah108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.prem-sah.com.np"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 <a href="https://orcid.org/0009-0002-2951-5780"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 
@@ -25,17 +25,37 @@
 
 ---
 
+### 🧑‍💻 About Me
+
+```python
+class TheBinaryGhost:
+    def __init__(self):
+        self.name = "Prem Sah"
+        self.alias = "The Binary Ghost"
+        self.role = "Cyber Security | Programming | AI/ML"
+        self.location = "Nepal"
+        
+    def current_mission(self):
+        return "Cracking boxes, building tools, training models."
+
+```
+
+- 🔍 **Cyber Security** — Penetration Testing, Ethical Hacking, CTFs, Security Research.
+- 💻 **Programming** — Python, C++, JavaScript, Kotlin, Java, Bash — building tools that hack and protect.
+- 🤖 **AI/ML** — TensorFlow, PyTorch, Scikit-learn — making machines smart enough to defend themselves.
+- 🐧 **Linux Tinkerer** — If it runs Linux, I've probably rice'd it.
+- 📝 **Tech Writer** — Sharing what I learn on [Hashnode](https://hashnode.com/@TheBinaryGhost).
+
+---
+
 ### 🛠️ Languages & Tools
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br/>
@@ -47,7 +67,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <br/>
 
@@ -73,6 +92,20 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheBinaryGhost&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="60%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBinaryGhost&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="38%"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheBinaryGhost&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
