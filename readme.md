@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%3E+Accessing+The+Binary+Ghost;Cyber+Security+%7C+Ethical+Hacking+%7C+Python;_%7C+%3E+root%40ghost%3A~%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%3E+Accessing+The+Binary+Ghost;Cyber+Security+%7C+Programming+%7C+AI%2FML;_%7C+%3E+root%40ghost%3A~%23" alt="Typing SVG" />
 </a>
 
 <!-- Shield Badges -->
@@ -16,39 +16,12 @@
 <br/>
 <br/>
 
-<!-- Profile Views & Visitor Count -->
+<!-- Profile Views & Stats -->
 <img src="https://komarev.com/ghpvc/?username=TheBinaryGhost&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/stars/TheBinaryGhost?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 <img src="https://img.shields.io/github/followers/TheBinaryGhost?style=for-the-badge&color=blue" alt="GitHub Followers"/>
 
 </div>
-
----
-
-### 🧑‍💻 About Me
-
-```python
-class TheBinaryGhost:
-    def __init__(self):
-        self.name = "Prem Sah"
-        self.alias = "The Binary Ghost"
-        self.role = "Cybersecurity Enthusiast | Ethical Hacker | Developer"
-        self.location = "Nepal"
-        self.education = "BSc.CSIT"
-        
-    def current_mission(self):
-        return "Cracking boxes, breaking things (legally), and building security tools."
-
-    def philosophy(self):
-        return "Hack the planet, secure the future."
-```
-
-- 🔍 **Ethical Hacking & Penetration Testing** — Breaking systems to make them stronger.
-- 🐍 **Python Security Tools** — Automating attacks and defenses, one script at a time.
-- 🐧 **Linux Tinkerer** — If it runs Linux, I've probably rice'd it.
-- 🌐 **Network Security** — Packets don't lie. I just read them better.
-- 🛡️ **CTF Player** — Flags are my currency. Root is my throne.
-- 📝 **Tech Writer** — Sharing what I learn on [Hashnode](https://hashnode.com/@TheBinaryGhost).
 
 ---
 
@@ -78,7 +51,18 @@ class TheBinaryGhost:
 
 <br/>
 
-![Nmap](https://img.shields.io/badge/Nmap-468847?style=for-the-badge&logo=) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=) ![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<br/>
+
+![Nmap](https://img.shields.io/badge/Nmap-468847?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
 
@@ -88,56 +72,17 @@ class TheBinaryGhost:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheBinaryGhost&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBinaryGhost&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBinaryGhost&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheBinaryGhost&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="60%"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheBinaryGhost&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
+### 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheBinaryGhost&theme=redical&hide_border=true&color=0e75b6" alt="Activity Graph" width="90%"/>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Uncomment below when snake generates -->
-<!-- <img src="https://raw.githubusercontent.com/TheBinaryGhost/TheBinaryGhost/output/github-snake-dark.svg" alt="Snake Animation"/> -->
-
-</div>
-
----
-
-### 🔐 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="60%"/>
 
 </div>
 
@@ -150,7 +95,7 @@ class TheBinaryGhost:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premkrsah1111)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themr.shah_/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@TheBinaryGhost)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebinaryghost1111@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themr.shah108@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheBinaryGhost)
 
 </div>
@@ -160,11 +105,5 @@ class TheBinaryGhost:
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=TheBinaryGhost%2FTheBinaryGhost&countColor=%2337d67a&style=for-the-badge&label=PROFILE%20VISITORS)
-
-**⚡ "The quieter you become, the more you can hear." — Ram Dass**
-
----
-
-*Last updated: July 2026*
 
 </div>
