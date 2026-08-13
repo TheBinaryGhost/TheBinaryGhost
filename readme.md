@@ -44,6 +44,11 @@ My goal is to continuously build practical technical and security knowledge whil
   Creating Compelling Reports — Cisco, 2025
 </details>
 
+<details>
+  <summary><strong>Cisco</strong></summary>
+  Creating Compelling Reports — Cisco, 2025
+</details>
+
 ---
 
 ## Skills & Tools
