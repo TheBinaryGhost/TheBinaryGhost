@@ -10,9 +10,7 @@
 
 I'm **Prem Kumar Sah**, an aspiring cybersecurity professional with interests in **Cybersecurity, Programming, AI/ML, and Governance, Risk & Compliance (GRC)**.
 
-I am currently pursuing a **BSc. in Computer Systems Engineering** and have hands-on experience with **Linux, networking, Python, virtualization, IT support, and cybersecurity fundamentals**.
-
-I also worked as an **IT Consultant** under the **Provincial Support Program (PSP), HELVETAS Nepal**, supporting the **Province Planning Commission, Koshi Province** with technical support, project data management, and documentation.
+I am a **BSc. in Computer Systems Engineering** student and have hands-on experience with **Linux, Networking, Python, Virtualization, IT Support, and Cybersecurity**.
 
 My goal is to continuously build practical technical and security knowledge while developing expertise in cybersecurity and GRC.
 
